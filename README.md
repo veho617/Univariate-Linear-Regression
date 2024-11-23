@@ -1,2 +1,3 @@
-This project is a greta starter to machine learning, it makes use of key concepts such as cost functions, gradient descent and learning rate. 
+This project is a great intro to machine learning, using cool concepts such as cost function, gradient descent and learning rate.
+It's exciting to see the calculus I've learnt finally come in handy.
 The training set used is simplified for easier understanding, but the code is designed to be scalable.
